@@ -1,7 +1,7 @@
-import React from "react";
-import logo from "./logo.svg";
-import "./App.css";
-import collegeBasketballTeams from "./CollegeBasketballTeams.json";
+import React from 'react';
+// import logo from "./logo.svg";
+import './App.css';
+import collegeBasketballTeams from './CollegeBasketballTeams.json';
 
 interface TeamProps {
   school: string;
